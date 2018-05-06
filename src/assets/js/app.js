@@ -8,5 +8,13 @@ import Foundation from 'foundation-sites';
 // the line below
 //import './lib/foundation-explicit-pieces';
 
-
 $(document).foundation();
+
+
+// import custom dependencies
+
+import libs from './lib/dependencies';
+
+window.libs = libs;
+
+// write down here codes for custom dependencies
