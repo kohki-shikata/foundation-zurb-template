@@ -1,8 +1,4 @@
 {
-<<<<<<< HEAD
-  "presets": ["es2015"],
-=======
-  "presets": [ "@babel/preset-env" ],
->>>>>>> upstream/master
+  "presets": ["@babel/preset-env"],
   "compact": false
 }
