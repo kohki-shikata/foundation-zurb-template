@@ -8,6 +8,7 @@ import Foundation from 'foundation-sites';
 // the line below
 //import './lib/foundation-explicit-pieces';
 
+<<<<<<< HEAD
 $(document).foundation();
 
 
@@ -18,3 +19,7 @@ import libs from './lib/dependencies';
 window.libs = libs;
 
 // write down here codes for custom dependencies
+=======
+
+$(document).foundation();
+>>>>>>> upstream/master
